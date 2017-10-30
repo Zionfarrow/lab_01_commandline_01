@@ -224,7 +224,7 @@ mkdir aardvark
 
 What is the modified date of the aardvark directory?
 ----------
-
+10/30/17
 
 
 ==========
@@ -236,7 +236,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir x3 * baz
 
 
 ==========
@@ -244,7 +244,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd 
 
 
 ==========
@@ -257,13 +257,13 @@ What command did you use?
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+clear
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+ls
 
 
 ==========
@@ -276,20 +276,20 @@ What command did you use?
 27. What's the shortcut for home directory?
 ----------
 
-
+~
 
 ==========
 28. What's a pathname?
-----------
-
-
+---------
+the way to a certain file
 
 ==========
 29. What's a directory?
 ----------
-
+a file
 
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+~/downloads/
