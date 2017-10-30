@@ -43,6 +43,10 @@ $ ls
 
 Copy and paste the output below.
 ----------
+Adlm			Downloads		Public
+Applications		Library			Sites
+Creative Cloud Files	Movies			animals
+Desktop			Music
 
 
 
@@ -252,7 +256,7 @@ cd
 
 What command did you use?
 ----------
-
+/../
 
 ==========
 24. What command is used to delete empty directories?
@@ -269,7 +273,7 @@ ls
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+-p
 
 
 ==========
